@@ -1,2 +1,2 @@
 # Exercism
-My personal solutions to Exercism problems.
+My personal solutions to exercism.io problems.
